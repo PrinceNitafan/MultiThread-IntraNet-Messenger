@@ -1,8 +1,7 @@
 Author: Prince Emmanuel Nitafan
 Email: pen@sfu.ca
 
-Summary: This program is a Intra Network UDP Messenger with multiple threads to handle typing, sending, receiving, printing. Additionally, it handles a data critical section
-	   appropriately for all threads.
+Summary: This program is a Intra Network UDP Messenger with multiple threads to handle typing, sending, receiving, printing. Additionally, it handles a data critical section appropriately for all threads.
    
 
 The max string length is 1023 (+1 for the null terminator).
